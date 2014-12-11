@@ -1,4 +1,4 @@
-{
+dataHandler({
    "full_name": "SteJ O'Connor",
    "title": "Web Developer",
    "links": [
@@ -18,4 +18,4 @@
          "github": "https://github.com/Stevo5o"
       }
    ]
-}
+});
